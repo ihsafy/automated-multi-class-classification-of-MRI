@@ -39,15 +39,15 @@ This project formulates AD diagnosis as a **supervised multi-class image classif
 ## 📂 Dataset Structure
 data/
 ├── train/
-│ ├── NonDemented/
-│ ├── VeryMildDemented/
-│ ├── MildDemented/
-│ └── ModerateDemented/
+│   ├── NonDemented/
+│   ├── VeryMildDemented/
+│   ├── MildDemented/
+│   └── ModerateDemented/
 └── val/
-├── NonDemented/
-├── VeryMildDemented/
-├── MildDemented/
-└── ModerateDemented/
+    ├── NonDemented/
+    ├── VeryMildDemented/
+    ├── MildDemented/
+    └── ModerateDemented/
 
 
 
