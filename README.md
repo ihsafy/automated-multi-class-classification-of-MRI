@@ -36,7 +36,12 @@ This project formulates AD diagnosis as a **supervised multi-class image classif
 
 ---
 
-## 📂 Dataset Structure
+
+## Dataset Directory Structure
+
+The dataset is organized into training and validation sets.  
+Each set contains four classes representing different dementia stages.
+
 data/
 ├── train/
 │   ├── NonDemented/
