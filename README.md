@@ -43,17 +43,16 @@ The dataset is organized into training and validation sets.
 Each set contains four classes representing different dementia stages.
 
 data/
-├── train/
-│   ├── NonDemented/
-│   ├── VeryMildDemented/
-│   ├── MildDemented/
-│   └── ModerateDemented/
-└── val/
-    ├── NonDemented/
-    ├── VeryMildDemented/
-    ├── MildDemented/
-    ├── MildDemented/
-    └── ModerateDemented/
+- train/
+  - NonDemented/
+  - VeryMildDemented/
+  - MildDemented/
+  - ModerateDemented/
+- val/
+  - NonDemented/
+  - VeryMildDemented/
+  - MildDemented/
+  - ModerateDemented/
 
 
 
