@@ -52,6 +52,7 @@ data/
     ├── NonDemented/
     ├── VeryMildDemented/
     ├── MildDemented/
+    ├── MildDemented/
     └── ModerateDemented/
 
 
